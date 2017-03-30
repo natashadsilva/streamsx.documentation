@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  Developing IBM Streams applications with Python
+title:  Developing IBM Streams applications with Python (for version 1.4)
 description:  Learn how to develop a sample IBM Streams application in Python by using the the Python Application API in the Topology Toolkit
 weight:  10
 published: true
