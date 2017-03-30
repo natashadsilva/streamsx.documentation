@@ -1,6 +1,6 @@
 ---
 layout: docs
-title:  Developing IBM Streams applications with Python (for version 1.4)
+title:  Developing IBM Streams applications with Python
 description:  Learn how to develop a sample IBM Streams application in Python by using the the Python Application API in the Topology Toolkit
 weight:  10
 published: true
@@ -63,7 +63,7 @@ Before you can use the Python Application API, you must complete the following t
 
    * *Recommended* - Anaconda 4.0.0 or later, which includes Python 3.5.0 [https://www.continuum.io/downloads](https://www.continuum.io/downloads), **or:**
 
-   * CPython 3.5.0 or later [https://www.python.org](https://www.python.org). 
+   * CPython 3.5.0 or later [https://www.python.org](https://www.python.org).
 
    The Python Application API has been tested with Python 3.5.1
 
